@@ -5,5 +5,5 @@ HELLO!!!
 
 .. toctree::
 
-   conf
+   api
    usage
