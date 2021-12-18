@@ -13,10 +13,9 @@ Warlords is a sandbox set in the Warlord era / civil war of China (1916 - 1949).
 
 Some influences include:
 
-- Bannerlord
-- Battle Brothers
 - Victoria 2
-- 
+- Tactical Combat Series
+- Battle Brothers
 
 Currently this project has only one developer (myself) and will probably remain so.
 
