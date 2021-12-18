@@ -61,14 +61,16 @@ def slice_sat_map(x,y):
 
 
 class GameView(arcade.View):
-    """ Manage the 'game' view for our program. """
+    """ Manage the 'game' view for our program.
+
+
+    """
 
     def __init__(self, satx, saty):
         """
-        Set up the application.
-
-        x: x position of tile of zoom in from sat map
-        y: y position of tile of zomm in from sat map
+        init the Gameview
+        :param satx: x position of tile of zoom in from sat map
+        :param saty: y position of tile of zomm in from sat map
         """
         super().__init__()
 

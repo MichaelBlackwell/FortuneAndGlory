@@ -10,12 +10,14 @@ Welcome to FortuneAndGlory's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+This game has a number of influences:
+- Battle Brothers
+- Victoria 2
+- Dwarf Fortress
+
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
-* :ref:`installing_Fortune_and_Glory'
