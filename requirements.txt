@@ -1,0 +1,7 @@
+numpy~=1.21.4
+arcade~=2.6.7
+pyglet
+Pillow~=8.4.0
+networkx~=2.6.3
+astar~=0.93
+tcod~=13.1.0
