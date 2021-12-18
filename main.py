@@ -40,6 +40,7 @@ def main():
 
     window = arcade.Window(1920, 1080, "Different Views Minimal Example")
     menu_view = MenuView.MenuView()
+    OverMapView = OverMapView.OverMapView()
     window.show_view(menu_view)
     arcade.run()
 

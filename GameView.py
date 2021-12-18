@@ -311,6 +311,9 @@ class GameView(arcade.View):
                 else:
                     self.grid_sprites[selected[0]][selected[1]].color = arcade.color.WHITE
 
+        if button == arcade.MOUSE_BUTTON_RIGHT:
+            self.window.show_view(main.overmap_view)
+
     def on_mouse_motion(self, x: float, y: float, dx: float, dy: float):
 
         selected = arcade.screen_to_isometric_grid(x, y - self.height_map[self.hovered_tile[0]][self.hovered_tile[1]] * 5, ORIGIN[0], ORIGIN[1], WIDTH,HEIGHT)  #
