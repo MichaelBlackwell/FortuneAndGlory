@@ -1,8 +1,3 @@
-.. toctree::
-
-   usage
-   api
-
 
 $project
 ========
