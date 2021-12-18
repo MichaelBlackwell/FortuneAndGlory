@@ -1,4 +1,1 @@
-.. autosummary::
-   :toctree: generated
-
-   lumache
+:orphan:
