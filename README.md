@@ -17,9 +17,12 @@ Some influences include:
 - Tactical Combat Series
 - Battle Brothers
 
-Currently this project has only one developer (myself) and will probably remain so.
+I am open to adding additional developers to the project. You may reach me at:
+- message me at https://www.facebook.com/marinemike528 (I know Im old)
+- marinemike528@gmail.com
+- michael.blackwell@gitgenie.com
 
-It is written in Python and uses the Arcade game engine,
+It is written in Python and uses the Arcade game engine.
 
 I hope to release before the end of this year.
 
